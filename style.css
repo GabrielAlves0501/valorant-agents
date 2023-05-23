@@ -1,0 +1,87 @@
+  body#index{
+    background-image: url("imagens/valorant\ fundo-3000.png");
+  }
+  body#breach{
+    background-image: url("imagens/fundo-breach.jpg");
+  }
+  body#reyna{
+    background-image: url("imagens/fundo-reyna.png");
+  }
+  body#sova{
+    background-image: url("imagens/fundo-sova.png");
+  }
+  body#raze{
+    background-image: url("imagens/fundo-raze.png");
+  }
+  p{
+      color: aliceblue;
+  }
+  h1#index{
+      font-size:25px;
+      letter-spacing:3px;
+      color: aliceblue;
+  }
+  h1.agentes{
+    text-align: center;
+    color: aliceblue;
+    letter-spacing: 5px;
+  }
+  .personagens{
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      letter-spacing: 3px;
+  }
+  div.index{
+      text-align:center
+  }
+  .imagens{
+      border-radius: 50%;
+  }
+  .imagens:hover{
+    zoom: 120%;
+  }
+  #botao{
+      text-align: center;
+      border-bottom: 90%;
+      background-color: rgb(214, 78, 78);
+      color: aliceblue;
+      letter-spacing: 2px;
+      font-size: 15px;
+  }
+  #download:hover{
+      zoom: 120%;
+  }
+  .habilidades {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    letter-spacing: 3px;
+  }
+  .personagem {
+    display: flex; 
+    width: 100%; 
+    justify-content: space-evenly;
+  }
+  .imagens{
+    border-radius: 50%;
+  }
+  .imagens:hover{
+    zoom: 120%;
+  }
+  .texto{
+    max-width: 18%;
+  }
+  .funcao{
+    letter-spacing: 3px;
+  }
+  .classe{
+    font-size: 40px;
+    letter-spacing: 5px;
+  }
+  .sobre{
+    letter-spacing: 3px;
+  }
+  .biografia{
+    font-size: 20px;
+  }
